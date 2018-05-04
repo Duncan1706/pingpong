@@ -19,7 +19,7 @@ Numbers divisible by 15 are replaced with "ping-pong"
 
 ## Setup/Installation Requirements
 
-* visit
+* visit https://duncan1706.github.io/pingpong/
 
 
 ## Support and contact details
